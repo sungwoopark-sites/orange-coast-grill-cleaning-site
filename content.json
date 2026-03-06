@@ -1,0 +1,35 @@
+{
+  "business_name": "Orange Coast Grill Cleaning",
+  "phone": "(714) 581-2210",
+  "email": null,
+  "address": "1117 W Alvarez Ave, Orange, CA 92868",
+  "hours": "Monday-Friday: 9:00am - 6:00pm | Saturday-Sunday: Closed",
+  "services": [
+    "BBQ Grill Cleaning",
+    "Grill Repair",
+    "Grill Maintenance"
+  ],
+  "about_text": "Orange Coast Grill Cleaning specializes in grill cleanings, repairs, and standard maintenance. We bring your BBQ back to life with the quickest turnaround time.",
+  "testimonials": [],
+  "team_members": [],
+  "social_links": {},
+  "brand_colors": {
+    "primary": "#1a1a1a",
+    "secondary": "#e85d04",
+    "accent": "#f48c06"
+  },
+  "images_downloaded": [
+    "assets/images/logo.png",
+    "assets/images/favicon.png",
+    "assets/images/hero-bg.jpg",
+    "assets/images/hero-bg2.jpg",
+    "assets/images/work1.jpg",
+    "assets/images/work2.jpg",
+    "assets/images/work3.jpg",
+    "assets/images/work4.jpg",
+    "assets/images/work5.jpg",
+    "assets/images/work6.jpg"
+  ],
+  "original_site": "https://www.ocgcleaning.com/",
+  "scraping_notes": "Wix Thunderbolt site - contact info hidden behind JS rendering. Images extracted from wixstatic.com CDN. Business hours and address found via external directories. No email listed on site. No testimonials on site despite 61 Yelp reviews."
+}
